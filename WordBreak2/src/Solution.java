@@ -22,10 +22,6 @@ public class Solution {
 	public boolean BREAK[][];
 	private ArrayList<String> LISTS;
 
-	public Solution() {
-
-	}
-
 	public ArrayList<String> wordBreak(String s, Set<String> dict) {
 		BREAK = new boolean[s.length()][s.length() + 1];
 		LISTS = new ArrayList<String>();
