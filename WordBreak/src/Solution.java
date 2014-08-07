@@ -1,6 +1,6 @@
 /**
  * http://oj.leetcode.com/problems/word-break/ 
- * Given a string s and a dictionary
+ * Given a string s and a dictionary 
  * of words dict, determine if s can be segmented into a space-separated
  * sequence of one or more dictionary words.
  * 
@@ -18,10 +18,6 @@ public class Solution {
 
 	// records whether substring from start to end is breakable
 	public byte BREAK[][];
-
-	public Solution() {
-
-	}
 
 	public boolean wordBreak(String s, Set<String> dict) {
 		BREAK = new byte[s.length()][s.length()];
