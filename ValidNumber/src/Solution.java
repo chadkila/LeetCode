@@ -1,6 +1,6 @@
 /**
- * http://oj.leetcode.com/problems/valid-number/ Validate if a given string is
- * numeric.
+ * http://oj.leetcode.com/problems/valid-number/ 
+ * Validate if a given string is numeric.
  * 
  * Some examples: "0" => true " 0.1 " => true "abc" => false "1 a" => false
  * "2e10" => true
@@ -9,9 +9,6 @@
  */
 public class Solution {
 
-	public Solution(){
-		
-	}
 	/**
 	 * [-+] 匹配方括号中任意
 	 * ？ 重复0或1次，等于{0,1}
@@ -32,13 +29,6 @@ public class Solution {
 			return true;
 		else
 			return false;
-	}
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 	}
 
 }
