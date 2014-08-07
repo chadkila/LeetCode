@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * https://oj.leetcode.com/problems/surrounded-regions/
  * Given a 2D board containing 'X' and 'O', capture all regions surrounded by
- * 'X'.
+ * 'X'. 
  * 
  * A region is captured by flipping all 'O's into 'X's in that surrounded
  * region.
