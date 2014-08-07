@@ -1,6 +1,6 @@
 /**
  * https://oj.leetcode.com/problems/string-to-integer-atoi/
- * Implement atoi to convert a string to an integer.
+ * Implement atoi to convert a string to an integer. 
  */
 
 /**
