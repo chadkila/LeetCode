@@ -12,7 +12,7 @@ import java.util.*;
  * You may assume that each input would have exactly one solution.
  * 
  * Input: numbers={2, 7, 11, 15}, target=9 
- * Output: index1=1, index2=2
+ * Output: index1=1, index2=2 
  */
 
 /**
