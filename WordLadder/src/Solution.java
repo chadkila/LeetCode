@@ -31,10 +31,6 @@ class Node {
  */
 public class Solution {
 
-	public Solution() {
-
-	}
-
 	/*
 	 * To store the words have been covered in BFS
 	 */
