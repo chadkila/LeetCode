@@ -16,7 +16,7 @@
  * 
  * For example, 
  * words: ["This", "is", "an", "example", "of", "text", "justification."] 
- * L: 16.
+ * L: 16. 
  * 
  * Return the formatted lines as: 
  * [ 
